@@ -1,9 +1,5 @@
 # Challenge
-Below is the DevOps challenge. To keep the recruitment process flowing we
-would appreciate a response back within one week, but we realize that
-applicants are usually already juggling busy works and life schedule and may
-require more time. Please keep us updated of your progress.
-If you have any question about the problem, please contact us.
+Below is the DevOps challenge. 
 
 ## Background
 A development team has created a Java web app that is ready for a limited
